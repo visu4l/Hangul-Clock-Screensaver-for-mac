@@ -8,6 +8,7 @@
 
 설치 : [다운로드](https://github.com/visu4l/Hangul-Clock-Screensaver-for-mac/releases/download/v1/ScreenHangulClock.saver.zip)
 
+![capture](https://github.com/visu4l/Hangul-Clock-Screensaver-for-mac/releases/download/v1/screen.png)
 
 # License
 
